@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broad</string>
+    <string name="action_broadcast">com.example.broad.MIBROACAST</string>
+</resources>
